@@ -12,5 +12,5 @@ This is a Contact Book application implemented in Python that allows users to st
 
 ## Database
 
-The application utilizes a database to store contact information. The database engine used is SQLite, and the database file is named `contacts.db`.
+The application utilizes a database to store contact information. The database engine used is SQLite, and the database file is named `contacts_book.db`.
 
